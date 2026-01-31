@@ -1,0 +1,26 @@
+
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "name": "alu_regex-data-extraction-nshutilancelot3",
+  "version": "1.0.0",
+  "main": "program.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nshutilancelot3/alu_regex-data-extraction-nshutilancelot3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nshutilancelot3/alu_regex-data-extraction-nshutilancelot3/issues"
+  },
+  "homepage": "https://github.com/nshutilancelot3/alu_regex-data-extraction-nshutilancelot3#readme",
+  "description": ""
+}

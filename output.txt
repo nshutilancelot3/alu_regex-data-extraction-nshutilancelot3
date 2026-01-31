@@ -1,0 +1,24 @@
+{
+    "emails": [
+        "n***3@gmail.com",
+        "s***t@my-company.org"
+    ],
+    "urls": [
+        "https://www.lancelot.com",
+        "http://secure.my-site.net/login?user=admin"
+    ],
+    "phonenumbers": [
+        "+1 202-555-0147",
+        "(078) 123-4567"
+    ],
+    "hashtags": [
+        "#BigSale2026",
+        "#TechLife",
+        "#LancelotTech"
+    ],
+    "currencyamounts": [
+        "$1,250.00",
+        "$300",
+        "$15,000"
+    ]
+}
